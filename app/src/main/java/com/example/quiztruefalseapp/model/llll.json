@@ -1,0 +1,105 @@
+{
+  "response_code": 0 ,
+  "results": [
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "The Spitfire originated from a racing plane." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "medium" ,
+      "question": "&quot;I disapprove of what you say, but I will defend to the death your right to say it&quot; is a quote from French philosopher Voltaire." ,
+      "correct_answer": "False" ,
+      "incorrect_answers": [
+        "True"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963." ,
+      "correct_answer": "False" ,
+      "incorrect_answers": [
+        "True"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "The United States of America declared their independence from the British Empire on July 4th, 1776." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "Adolf Hitler was tried at the Nuremberg trials." ,
+      "correct_answer": "False" ,
+      "incorrect_answers": [
+        "True"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "Kublai Khan is the grandchild of Genghis Khan?" ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "hard" ,
+      "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "easy" ,
+      "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "medium" ,
+      "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    } ,
+    {
+      "category": "History" ,
+      "type": "boolean" ,
+      "difficulty": "hard" ,
+      "question": "The man that shot Alexander Hamilton was named Aaron Burr." ,
+      "correct_answer": "True" ,
+      "incorrect_answers": [
+        "False"
+      ]
+    }
+  ]
+}
